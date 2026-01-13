@@ -366,3 +366,9 @@ input[type="checkbox"]:checked {
   background-color:  white !important;
   color: black;
 }
+
+/* DROPDOWN */
+
+li.nav-item.dropdown.dropdown-help.dropdown-mobile {
+	display: none !important;
+}
