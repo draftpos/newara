@@ -3,6 +3,7 @@ README.md
 setup.py
 newara/__init__.py
 newara/hooks.py
+newara/install.py
 newara.egg-info/PKG-INFO
 newara.egg-info/SOURCES.txt
 newara.egg-info/dependency_links.txt
