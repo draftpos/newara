@@ -56,6 +56,12 @@
 	color: var(--blue-600) !important;
 }
 
+/* Desk Screen */
+
+.app-icon {
+	filter: sepia(100%) hue-rotate(190deg) saturate(700%) brightness(90%);
+}
+
 /* NAVBAR DESIGNE */
 
 .navbar .navbar-expand span, 
@@ -76,6 +82,14 @@
 
 .search-bar span {
 	color: var(--neutral-black) !important;
+}
+
+.current-color {
+	stroke: #0056b3 !important;
+}
+
+.header-logo img {
+	filter: sepia(100%) hue-rotate(190deg) saturate(700%) brightness(70%);
 }
 
 /* PAGE DESIGN */
@@ -321,6 +335,7 @@ input[type="checkbox"]:checked {
 	border-top-left-radius: 0 !important;
 	border-bottom-left-radius: 0 !important;
 }
+
 
 /* POS DESIGN */
 
